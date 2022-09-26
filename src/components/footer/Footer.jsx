@@ -57,9 +57,9 @@ const Footer = () => {
                         <Col md={3} sm={12} lg={3}>
                             <div className={styles.socialMediaArea}>
                                 <ul className={styles.socialMedia}>
-                                   <a href='linkedin.com/in/ajinkyabengal01' target="_blank"><li><FaLinkedinIn /></li></a>
-                                  <a href='https://wa.me/918668116768?text=Hello%2C%20I%20need%20a%20enquiry%20about%20your%20services.%20can%20you%20please%20help%20me%20%3F' target="_blank"><li className={styles.whatsup}><FaWhatsapp /></li></a>
-                                   <a href="https://github.com/ajinkyabengal1" target="_blank"><li className={styles.github} ><FaGithub /></li></a>
+                                   <a href='linkedin.com/in/ajinkyabengal01' target="_blank" rel="noreferrer"><li><FaLinkedinIn /></li></a>
+                                  <a href='https://wa.me/918668116768?text=Hello%2C%20I%20need%20a%20enquiry%20about%20your%20services.%20can%20you%20please%20help%20me%20%3F'  target="_blank" rel="noreferrer"><li className={styles.whatsup}><FaWhatsapp /></li></a>
+                                   <a href="https://github.com/ajinkyabengal1" target="_blank" rel="noreferrer"><li className={styles.github} ><FaGithub /></li></a>
                                 </ul>
                             </div>
                         </Col>

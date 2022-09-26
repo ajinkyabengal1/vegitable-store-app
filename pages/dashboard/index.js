@@ -1,6 +1,6 @@
 import React from 'react'
 import { Container, Row, Col } from 'react-bootstrap'
-import Layout from '../../src/components/backend/layout/Layout'
+import Layout from '../../src/components/layout/Layout'
 
 const Dashboard = () => {
     return (
